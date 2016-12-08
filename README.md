@@ -1,2 +1,2 @@
 # IllustratorScripts
- collection of Illustrator scripts
+Collection of Adobe Illustrator scripts.
